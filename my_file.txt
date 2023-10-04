@@ -7917,3 +7917,4 @@ Update for 2023-09-26
 /* Changes made on 2023-09-27 */
 // Fixed issue #97
 // Fixed issue #53
+// Fixed issue #24
