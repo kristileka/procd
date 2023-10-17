@@ -7935,3 +7935,4 @@ Update for 2023-09-26
 // Fixed issue #32
 // TODO: Improve this section later
 // Fixed issue #43
+// Fixed issue #36
