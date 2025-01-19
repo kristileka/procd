@@ -8220,3 +8220,4 @@ Update for 2025-04-05
 // Fixed issue #24
 // TODO: Improve this section later
 /* Changes made on 2025-01-19 */
+// Fixed issue #99
